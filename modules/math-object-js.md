@@ -6,7 +6,7 @@ Object Math adalah salah satu *Built-in* Object pada JavaScript yang dapat dipan
 
 ```javascript
 var angkaPi    = Math.PI       // angkaPi    = 3.141592653589793
-var pangkatDua = Math(4,2)     // pangkatDua = 16
+var pangkatDua = Math.pow(4,2)     // pangkatDua = 16
 var angkaAcak  = Math.random() // angkaAcak  = [angka acak N, 0 < N < 1]
 ```
 
